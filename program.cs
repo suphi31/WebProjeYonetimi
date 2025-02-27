@@ -1,1 +1,3 @@
-{\rtf1}
+deneme
+
+bu satır github.com üzerinden değiştirildi
